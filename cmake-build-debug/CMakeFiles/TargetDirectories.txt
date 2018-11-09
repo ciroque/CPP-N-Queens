@@ -1,0 +1,3 @@
+C:/Users/Steve/Documents/Development/Projects/Online Courses/CPP-N-Queens/cmake-build-debug/CMakeFiles/CPP_N_Queens.dir
+C:/Users/Steve/Documents/Development/Projects/Online Courses/CPP-N-Queens/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Steve/Documents/Development/Projects/Online Courses/CPP-N-Queens/cmake-build-debug/CMakeFiles/rebuild_cache.dir

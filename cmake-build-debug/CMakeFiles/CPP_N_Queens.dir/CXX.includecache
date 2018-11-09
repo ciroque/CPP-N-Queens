@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Steve/Documents/Development/Projects/Online Courses/CPP-N-Queens/main.cpp
+iostream
+-
+sstream
+-
+vector
+-
+
